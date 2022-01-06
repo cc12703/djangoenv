@@ -1,5 +1,5 @@
 django==2.2.0
-celery==4.3
+celery==5.2.2
 psycopg2==2.7.6.1 
 numpy==1.16.2
 pandas==0.24.2
